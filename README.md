@@ -1,4 +1,4 @@
-# firebase_login
+# firebase_signin_signup
 
 A new Flutter application.
 
